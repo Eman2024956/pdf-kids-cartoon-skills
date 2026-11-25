@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: adult-leaflet-handwashing
+expected_outcome: |
+  A kid-friendly cartoon about washing hands (when and the 5 steps, counting to 20) made from a leaflet written for parents, with the adult-only parts (studies, disease names, advice to parents) left out or simplified, delivered as HTML plus MP4 for a channel.
+context:
+  scaffold_script: place-files.sh
